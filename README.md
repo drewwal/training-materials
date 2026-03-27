@@ -12,20 +12,21 @@ Companion materials for the Intro to Data Science training session.
 
 ## What the notebook covers
 
-- Data loading and exploratory analysis
-- Visualisation of feature distributions and correlations
-- Building a rules-based baseline model
-- Categorical encoding and feature scaling
-- Train/test splitting and evaluation metric selection
-- Training Logistic Regression and LightGBM models
-- Hyperparameter tuning with cross-validation
-- Generating a competition submission file
+1. Data loading and exploratory analysis
+2. Visualisation of feature distributions and correlations
+3. Building a rules-based baseline model
+4. Categorical encoding and feature scaling
+5. Train/test splitting and evaluation metric selection
+6. Training a Logistic Regression model
+7. Training a LightGBM model
+8. Hyperparameter tuning with cross-validation
+9. Training a final model and generating a competition submission file
 
 ## Usage
 
 1. Go to the [competition page](https://www.kaggle.com/competitions/playground-series-s5e11) and join the competition
 2. Create a new Kaggle Notebook attached to the competition
-3. Upload `my-first-model.ipynb` and run through the cells, filling in the `# TODO` sections as you go
+3. Upload `new-starter-training.ipynb` and run through the cells, filling in the `# TODO` sections as you go
 
 ## Requirements
 
